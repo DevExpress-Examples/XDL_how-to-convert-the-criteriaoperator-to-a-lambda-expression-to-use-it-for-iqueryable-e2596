@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication152/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication152/Form1.vb))
+* [Products.cs](./CS/WindowsFormsApplication152/Products.cs) (VB: [Products.vb](./VB/WindowsFormsApplication152/Products.vb))
+* [Program.cs](./CS/WindowsFormsApplication152/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication152/Program.vb))
+<!-- default file list end -->
 # How to convert the CriteriaOperator to a lambda expression to use it for IQueryable
 
 
